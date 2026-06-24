@@ -1,2 +1,2 @@
 Bug bounty Dorks
-Navigate at : https://sy4oud.github.io/keendork/keendork.html
+Navigate at : https://s4youd.github.io/keendork/keendork.html
